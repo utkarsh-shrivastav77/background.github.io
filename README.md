@@ -1,0 +1,1 @@
+## This repository contains the plain landing page background based on [Particles.js](https://github.com/VincentGarreau/particles.js). This is as an *Anti-Anxiety Easter Egg* webpage, accessible from my main website - [www.darpanjain.com](https://www.darpanjain.com/).
